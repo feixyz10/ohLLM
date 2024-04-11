@@ -1,0 +1,14 @@
+---
+BasedOnStyle: Google
+---
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Right
+BreakBeforeBraces: Attach
+AllowShortLambdasOnASingleLine: All
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: true
+Cpp11BracedListStyle: true
+MaxEmptyLinesToKeep: 2
+UseTab: Never
+Standard: Cpp11

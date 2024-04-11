@@ -1,0 +1,8 @@
+.vscode
+.build
+.temp
+.cache
+.DS_Store
+
+compile_commands.json
+README_dev.md
